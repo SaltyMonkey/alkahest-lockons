@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alkahest.Plugins.Lockons", "Alkahest.Plugins.Lockons\Alkahest.Plugins.Lockons.csproj", "{A05794AF-1264-4083-BB77-A6FB34981C10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05794AF-1264-4083-BB77-A6FB34981C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05794AF-1264-4083-BB77-A6FB34981C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05794AF-1264-4083-BB77-A6FB34981C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05794AF-1264-4083-BB77-A6FB34981C10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C045458A-3A0D-4EA0-B67F-73239550906F}
+	EndGlobalSection
+EndGlobal
